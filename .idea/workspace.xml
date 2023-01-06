@@ -9,181 +9,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="04acc7a9-6d1f-444e-8232-ea6a7211c932" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/Plugins/jQuery-Plugin-For-Image-Hover-Zoom-WM-Zoom/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/Plugins/jQuery-Plugin-For-Image-Hover-Zoom-WM-Zoom/assets/css/app.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/Plugins/jQuery-Plugin-For-Image-Hover-Zoom-WM-Zoom/assets/css/bootstrap-theme.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/Plugins/jQuery-Plugin-For-Image-Hover-Zoom-WM-Zoom/assets/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/Plugins/jQuery-Plugin-For-Image-Hover-Zoom-WM-Zoom/assets/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/Plugins/jQuery-Plugin-For-Image-Hover-Zoom-WM-Zoom/assets/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/Plugins/jQuery-Plugin-For-Image-Hover-Zoom-WM-Zoom/assets/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/Plugins/jQuery-Plugin-For-Image-Hover-Zoom-WM-Zoom/assets/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/Plugins/jQuery-Plugin-For-Image-Hover-Zoom-WM-Zoom/assets/img/big-image-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/Plugins/jQuery-Plugin-For-Image-Hover-Zoom-WM-Zoom/assets/img/big-image.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/Plugins/jQuery-Plugin-For-Image-Hover-Zoom-WM-Zoom/assets/img/loader.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/Plugins/jQuery-Plugin-For-Image-Hover-Zoom-WM-Zoom/assets/img/small-image-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/Plugins/jQuery-Plugin-For-Image-Hover-Zoom-WM-Zoom/assets/img/small-image.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/Plugins/jQuery-Plugin-For-Image-Hover-Zoom-WM-Zoom/assets/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/Plugins/jQuery-Plugin-For-Image-Hover-Zoom-WM-Zoom/assets/js/jquery-1.11.1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/Plugins/jQuery-Plugin-For-Image-Hover-Zoom-WM-Zoom/assets/syntaxhighlighter/scripts/shAutoloader.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/Plugins/jQuery-Plugin-For-Image-Hover-Zoom-WM-Zoom/assets/syntaxhighlighter/scripts/shBrushAS3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/Plugins/jQuery-Plugin-For-Image-Hover-Zoom-WM-Zoom/assets/syntaxhighlighter/scripts/shBrushAppleScript.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/Plugins/jQuery-Plugin-For-Image-Hover-Zoom-WM-Zoom/assets/syntaxhighlighter/scripts/shBrushBash.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/Plugins/jQuery-Plugin-For-Image-Hover-Zoom-WM-Zoom/assets/syntaxhighlighter/scripts/shBrushCSharp.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/Plugins/jQuery-Plugin-For-Image-Hover-Zoom-WM-Zoom/assets/syntaxhighlighter/scripts/shBrushColdFusion.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/Plugins/jQuery-Plugin-For-Image-Hover-Zoom-WM-Zoom/assets/syntaxhighlighter/scripts/shBrushCpp.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/Plugins/jQuery-Plugin-For-Image-Hover-Zoom-WM-Zoom/assets/syntaxhighlighter/scripts/shBrushCss.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/Plugins/jQuery-Plugin-For-Image-Hover-Zoom-WM-Zoom/assets/syntaxhighlighter/scripts/shBrushDelphi.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/Plugins/jQuery-Plugin-For-Image-Hover-Zoom-WM-Zoom/assets/syntaxhighlighter/scripts/shBrushDiff.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/Plugins/jQuery-Plugin-For-Image-Hover-Zoom-WM-Zoom/assets/syntaxhighlighter/scripts/shBrushErlang.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/Plugins/jQuery-Plugin-For-Image-Hover-Zoom-WM-Zoom/assets/syntaxhighlighter/scripts/shBrushGroovy.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/Plugins/jQuery-Plugin-For-Image-Hover-Zoom-WM-Zoom/assets/syntaxhighlighter/scripts/shBrushJScript.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/Plugins/jQuery-Plugin-For-Image-Hover-Zoom-WM-Zoom/assets/syntaxhighlighter/scripts/shBrushJava.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/Plugins/jQuery-Plugin-For-Image-Hover-Zoom-WM-Zoom/assets/syntaxhighlighter/scripts/shBrushJavaFX.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/Plugins/jQuery-Plugin-For-Image-Hover-Zoom-WM-Zoom/assets/syntaxhighlighter/scripts/shBrushPerl.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/Plugins/jQuery-Plugin-For-Image-Hover-Zoom-WM-Zoom/assets/syntaxhighlighter/scripts/shBrushPhp.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/Plugins/jQuery-Plugin-For-Image-Hover-Zoom-WM-Zoom/assets/syntaxhighlighter/scripts/shBrushPlain.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/Plugins/jQuery-Plugin-For-Image-Hover-Zoom-WM-Zoom/assets/syntaxhighlighter/scripts/shBrushPowerShell.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/Plugins/jQuery-Plugin-For-Image-Hover-Zoom-WM-Zoom/assets/syntaxhighlighter/scripts/shBrushPython.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/Plugins/jQuery-Plugin-For-Image-Hover-Zoom-WM-Zoom/assets/syntaxhighlighter/scripts/shBrushRuby.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/Plugins/jQuery-Plugin-For-Image-Hover-Zoom-WM-Zoom/assets/syntaxhighlighter/scripts/shBrushSass.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/Plugins/jQuery-Plugin-For-Image-Hover-Zoom-WM-Zoom/assets/syntaxhighlighter/scripts/shBrushScala.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/Plugins/jQuery-Plugin-For-Image-Hover-Zoom-WM-Zoom/assets/syntaxhighlighter/scripts/shBrushSql.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/Plugins/jQuery-Plugin-For-Image-Hover-Zoom-WM-Zoom/assets/syntaxhighlighter/scripts/shBrushVb.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/Plugins/jQuery-Plugin-For-Image-Hover-Zoom-WM-Zoom/assets/syntaxhighlighter/scripts/shBrushXml.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/Plugins/jQuery-Plugin-For-Image-Hover-Zoom-WM-Zoom/assets/syntaxhighlighter/scripts/shCore.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/Plugins/jQuery-Plugin-For-Image-Hover-Zoom-WM-Zoom/assets/syntaxhighlighter/scripts/shLegacy.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/Plugins/jQuery-Plugin-For-Image-Hover-Zoom-WM-Zoom/assets/syntaxhighlighter/styles/shCore.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/Plugins/jQuery-Plugin-For-Image-Hover-Zoom-WM-Zoom/assets/syntaxhighlighter/styles/shCoreDefault.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/Plugins/jQuery-Plugin-For-Image-Hover-Zoom-WM-Zoom/assets/syntaxhighlighter/styles/shCoreDjango.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/Plugins/jQuery-Plugin-For-Image-Hover-Zoom-WM-Zoom/assets/syntaxhighlighter/styles/shCoreEclipse.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/Plugins/jQuery-Plugin-For-Image-Hover-Zoom-WM-Zoom/assets/syntaxhighlighter/styles/shCoreEmacs.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/Plugins/jQuery-Plugin-For-Image-Hover-Zoom-WM-Zoom/assets/syntaxhighlighter/styles/shCoreFadeToGrey.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/Plugins/jQuery-Plugin-For-Image-Hover-Zoom-WM-Zoom/assets/syntaxhighlighter/styles/shCoreMDUltra.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/Plugins/jQuery-Plugin-For-Image-Hover-Zoom-WM-Zoom/assets/syntaxhighlighter/styles/shCoreMidnight.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/Plugins/jQuery-Plugin-For-Image-Hover-Zoom-WM-Zoom/assets/syntaxhighlighter/styles/shCoreRDark.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/Plugins/jQuery-Plugin-For-Image-Hover-Zoom-WM-Zoom/assets/syntaxhighlighter/styles/shThemeDefault.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/Plugins/jQuery-Plugin-For-Image-Hover-Zoom-WM-Zoom/assets/syntaxhighlighter/styles/shThemeDjango.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/Plugins/jQuery-Plugin-For-Image-Hover-Zoom-WM-Zoom/assets/syntaxhighlighter/styles/shThemeEclipse.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/Plugins/jQuery-Plugin-For-Image-Hover-Zoom-WM-Zoom/assets/syntaxhighlighter/styles/shThemeEmacs.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/Plugins/jQuery-Plugin-For-Image-Hover-Zoom-WM-Zoom/assets/syntaxhighlighter/styles/shThemeFadeToGrey.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/Plugins/jQuery-Plugin-For-Image-Hover-Zoom-WM-Zoom/assets/syntaxhighlighter/styles/shThemeMDUltra.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/Plugins/jQuery-Plugin-For-Image-Hover-Zoom-WM-Zoom/assets/syntaxhighlighter/styles/shThemeMidnight.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/Plugins/jQuery-Plugin-For-Image-Hover-Zoom-WM-Zoom/assets/syntaxhighlighter/styles/shThemeRDark.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/Plugins/jQuery-Plugin-For-Image-Hover-Zoom-WM-Zoom/config.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/Plugins/jQuery-Plugin-For-Image-Hover-Zoom-WM-Zoom/exemple.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/Plugins/jQuery-Plugin-For-Image-Hover-Zoom-WM-Zoom/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/Plugins/jQuery-Plugin-For-Image-Hover-Zoom-WM-Zoom/init.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/Plugins/jQuery-Plugin-For-Image-Hover-Zoom-WM-Zoom/wm-zoom/jquery.wm-zoom-1.0.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/Plugins/jQuery-Plugin-For-Image-Hover-Zoom-WM-Zoom/wm-zoom/jquery.wm-zoom-1.0.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/Plugins/jQuery-Plugin-For-Image-Hover-Zoom-WM-Zoom/wm-zoom/jquery.wm-zoom-1.0.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/Plugins/jQuery-Plugin-For-Image-Hover-Zoom-WM-Zoom/wm-zoom/jquery.wm-zoom-1.0.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/Plugins/parallax.js-1.5.0/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/Plugins/parallax.js-1.5.0/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/Plugins/parallax.js-1.5.0/bower.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/Plugins/parallax.js-1.5.0/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/Plugins/parallax.js-1.5.0/parallax.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/Plugins/parallax.js-1.5.0/parallax.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/Plugins/slick-master/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/Plugins/slick-master/CONTRIBUTING.markdown" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/Plugins/slick-master/ISSUE_TEMPLATE.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/Plugins/slick-master/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/Plugins/slick-master/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/Plugins/slick-master/README.markdown" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/Plugins/slick-master/bower.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/Plugins/slick-master/component.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/Plugins/slick-master/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/Plugins/slick-master/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/Plugins/slick-master/slick.jquery.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/Plugins/slick-master/slick/ajax-loader.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/Plugins/slick-master/slick/config.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/Plugins/slick-master/slick/fonts/slick.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/Plugins/slick-master/slick/fonts/slick.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/Plugins/slick-master/slick/fonts/slick.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/Plugins/slick-master/slick/fonts/slick.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/Plugins/slick-master/slick/slick-theme.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/Plugins/slick-master/slick/slick-theme.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/Plugins/slick-master/slick/slick-theme.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/Plugins/slick-master/slick/slick-theme1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/Plugins/slick-master/slick/slick.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/Plugins/slick-master/slick/slick.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/Plugins/slick-master/slick/slick.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/Plugins/slick-master/slick/slick.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/Plugins/slick-master/slick/slick.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/css/about-us.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/css/cart.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/css/contact-form.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/css/ecommerce-price-men.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/css/ecommerce.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/css/for-each-image.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/css/jquery.wm-zoom1-1.0.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/css/login-form.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/css/payment.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/images/bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/images/desktop.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/images/formal.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/images/log-in..png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/images/log-in.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/images/login-background.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/images/model_img.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/images/model_img_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/images/profile-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/images/sale-1..png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/images/sale-box.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/images/shopping-logo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/images/shopping-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/js/about-us.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/js/cart.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/js/contact-form.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/js/ecommerce-2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/js/ecommerce-price-men-2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/js/ecommerce-price-men.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/js/ecommerce.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/js/for-each-image.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/js/jquery-1.11.1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/js/jquery.wm-zoom1-1.0.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/js/login-ecommerce.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/js/login-form.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/js/payment.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/cf5e6402-702a-4eac-8738-3ea17b654e1e.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/cf5e6402-702a-4eac-8738-3ea17b654e1e.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+    <list default="true" id="04acc7a9-6d1f-444e-8232-ea6a7211c932" name="Changes" comment="img product">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/emusicstore/controller/MyController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/emusicstore/controller/MyController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/classes/com/emusicstore/controller/AdminController.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/classes/com/emusicstore/controller/AdminController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/classes/com/emusicstore/controller/CartController.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/classes/com/emusicstore/controller/CartController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/classes/com/emusicstore/controller/CartItemController.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/classes/com/emusicstore/controller/CartItemController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/classes/com/emusicstore/controller/LoginController.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/classes/com/emusicstore/controller/LoginController.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/classes/com/emusicstore/controller/MyController.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/classes/com/emusicstore/controller/MyController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/classes/com/emusicstore/dao/CartDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/classes/com/emusicstore/dao/CartDaoImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/classes/com/emusicstore/dao/ProductDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/classes/com/emusicstore/dao/ProductDaoImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/classes/com/emusicstore/model/Cart.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/classes/com/emusicstore/model/Cart.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/classes/com/emusicstore/model/CartItem.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/classes/com/emusicstore/model/CartItem.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/classes/com/emusicstore/model/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/classes/com/emusicstore/model/Product.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/images/297e4892546a98b001546aa94f4b0001.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/images/297e4892546e130101546e1e83ed0001.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/images/297e4892546e45e701546e53799c0000.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/images/297e489254746e2301547479f56f0006.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/images/297e489254746e230154748c84fd0008.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/images/297e489254746e23015474946d6c000a.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/images/297e489254746e230154749c9915000c.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/images/402881fa857d7c3301857d7cc35b0000.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/images/back1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/images/back2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/images/back8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/images/back9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/addProduct.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/addProduct.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/admin.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/admin.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/cart.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/cart.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/classes/com/emusicstore/dao/CartDaoImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/classes/com/emusicstore/dao/ProductDaoImpl.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/editProduct.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/editProduct.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/firstPage.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/home.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/home.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/login.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/productInventory.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/productInventory.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/productList.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/productList.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/templates/footer.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/templates/footer.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/templates/header.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/templates/header.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/viewProduct.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/viewProduct.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/viewProductInventory.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/viewProductInventory.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -244,6 +75,9 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="G:\LTjava\eMusicStore_eCommerce_Website\src\main\webapp\WEB-INF\resources\images" />
       <recent name="G:\LTjava\eMusicStore_eCommerce_Website\src\main\webapp\WEB-INF\lib" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.emusicstore.dao.impl" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.emusicstore" />
@@ -473,8 +307,23 @@
       <workItem from="1672933320454" duration="1590000" />
       <workItem from="1672976486373" duration="2931000" />
       <workItem from="1672991536023" duration="9935000" />
-      <workItem from="1673016130240" duration="10419000" />
+      <workItem from="1673016130240" duration="11025000" />
     </task>
+    <task id="LOCAL-00001" summary="new ui">
+      <created>1673027031749</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673027031749</updated>
+    </task>
+    <task id="LOCAL-00002" summary="img product">
+      <created>1673027060272</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673027060272</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -490,6 +339,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new ui" />
+    <MESSAGE value="img product" />
+    <option name="LAST_COMMIT_MESSAGE" value="img product" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

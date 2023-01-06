@@ -12,7 +12,7 @@
     <meta name="author" content="">
     <link rel="icon" href="../../favicon.ico">
 
-    <title>Free$oul Muzik Store</title>
+    <title>Tee Shirt</title>
 
     <!-- Bootstrap core CSS -->
     <link href="<c:url value="/resources/css/bootstrap.min.css"/>" rel="stylesheet">
@@ -68,11 +68,13 @@
         <div class="form-group">
             <label for="category">Category</label>
             <label class="checkbox-inline"><form:radiobutton
-                    path="productCategory" id="category" value="Instrument"/>Instrument</label>
+                    path="productCategory" id="category" value="Spring"/>Spring</label>
             <label class="checkbox-inline"><form:radiobutton
-                    path="productCategory" id="category" value="Record"/>Record</label>
+                    path="productCategory" id="category" value="Summer"/>Summer</label>
             <label class="checkbox-inline"><form:radiobutton
-                    path="productCategory" id="category" value="Accessory"/>Accessory</label>
+                    path="productCategory" id="category" value="Autumn"/>Autumn</label>
+            <label class="checkbox-inline"><form:radiobutton
+                    path="productCategory" id="category" value="Winter"/>Winter</label>
         </div>
 
         <div class="form-group">
